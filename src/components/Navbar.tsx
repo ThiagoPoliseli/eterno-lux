@@ -1,4 +1,3 @@
-import React from 'react';
 import { Diamond } from 'lucide-react';
 
 export default function Navbar() {
