@@ -3,7 +3,7 @@
 const collections = [
   {
     title: 'Coleção Banhados a ouro 18k',
-    image: 'img/DALL·E 2025-01-30 09.53.37 - A luxurious black briefcase, slightly open, revealing neatly arranged 18k gold chains inside. The gold chains shine under a soft light, emphasizing th.webp',
+    image: 'img/DALL.webp',
     description: 'Peças delicadas com designs exclusivos, banhadas a ouro 18k',
     category: 'correntes'
   },

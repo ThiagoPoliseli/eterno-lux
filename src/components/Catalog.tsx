@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import CatalogItem from './CatalogItem';
 import SearchBar from './SearchBar';
 import { catalogData } from '../data/catalogData';
