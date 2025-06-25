@@ -11,7 +11,7 @@ export default function Cart({ isOpen, onClose }: CartProps) {
   const { items, removeFromCart, updateQuantity, totalItems, totalPrice } = useCart();
 
   const handleCheckout = () => {
-    const phoneNumber = '554699709955';
+    const phoneNumber = '554699758869';
     const message = encodeURIComponent(
       `Olá! Gostaria de fazer um pedido:\n\n${items
         .map(item => `${item.name} (${item.quantity}x) - R$ ${item.price}`)

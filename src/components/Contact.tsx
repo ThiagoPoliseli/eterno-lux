@@ -43,7 +43,7 @@ export default function Contact() {
               <Phone className="h-6 w-6 text-[#B8860B]" />
               <div>
                 <h3 className="font-semibold">Telefone</h3>
-                <p className="text-gray-300">(46) 99709955</p>
+                <p className="text-gray-300">(46) 9975-8869</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
