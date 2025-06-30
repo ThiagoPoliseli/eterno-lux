@@ -4,7 +4,7 @@ export const pingentes = [
     id: 0,
     name: 'Pingente De Letra A Diamantado Banhado A Ouro 18k',
     price: '40,00',
-    image: 'assets/img/pingentes/Pingente De Letra A Diamantado Banhado A Ouro 18k-34.jpg',
+    image: 'public/assets/img/pingentes/Pingente De Letra A Diamantado Banhado A Ouro 18k-34.jpg',
     category: 'pingentes'
 },
 {
