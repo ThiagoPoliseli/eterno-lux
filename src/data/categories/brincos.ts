@@ -10,7 +10,7 @@ export const brincos = [
     id: 72,
     name: 'Brinco Masculino Par Argola Com Crucifixo Liso G 0,6g Banhado A Ouro 18k',
     price: '60,00',
-    image: 'img/brincos/Brinco_Masculino_Banhado_A_Ouro_18k_-5.jpg',
+    image: 'assets/img/brincos/Brinco_Masculino_Banhado_A_Ouro_18k_-5.jpg',
     category: 'brincos'
 },
 {
