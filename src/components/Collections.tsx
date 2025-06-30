@@ -3,19 +3,19 @@
 const collections = [
   {
     title: 'Coleção Banhados a ouro 18k',
-    image: 'img/DALL.webp',
+    image: 'assets/img/DALL.webp',
     description: 'Peças delicadas com designs exclusivos, banhadas a ouro 18k',
     category: 'correntes'
   },
   {
     title: 'Coleção Prata 925',
-    image: 'img/MaletaPrata.webp',
+    image: 'assets/img/MaletaPrata.webp',
     description: 'Venha conecer nossa coleção de prata 925',
     category: 'brincos'
   },
   {
     title: 'Coleção Feminina',
-    image: 'img/maleta_feminina.webp',
+    image: 'assets/img/maleta_feminina.webp',
     description: 'Conheça nossa coleção de joias femininas',
     category: 'aneis'
   }
